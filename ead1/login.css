@@ -1,0 +1,19 @@
+.center{
+    margin-left:100px;
+    margin-right:100px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;   
+    padding-top:80px ;
+    padding-left: 10px;
+    padding-bottom: 80px;
+    flex-direction: column;
+    background-color: rgb(212, 237, 243);
+    border:1px dotted black;
+    border-radius: 100px;
+}
+body{background-color:rgb(210, 210, 226);}
+input{
+    border-radius: 10px;
+    
+}

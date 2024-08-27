@@ -1,0 +1,31 @@
+.calculators{
+    width:300px;
+    margin:100px ;
+    padding:20px;
+    border:5px solid black;
+    border-radius: 5px;
+    text-align:center;
+    background-color:black;
+    height: 350px;
+
+}
+.inner{
+    width:200px;
+    margin:auto ;
+    padding:20px;
+    border:5px solid black;
+    border-radius: 5px;
+    text-align:center;
+    background-color:grey;
+    height: 300px;
+}
+.button{
+    width:3px;
+    margin:1px;
+    padding:20px;
+    border:1px solid black;
+    border-radius: 5px;
+    text-align:center;
+    background-color: blanchedalmond;
+    
+}
